@@ -1,6 +1,6 @@
 <div align="center">
-<a href="https://raw.githubusercontent.com/Stick-Package-Manager/lite/refs/heads/assets/lite.png?token=GHSAT0AAAAAADLSOPPJAYMIO4Y2F75IFN662G7SJMQ" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/Stick-Package-Manager/lite/refs/heads/assets/lite.png?token=GHSAT0AAAAAADLSOPPJAYMIO4Y2F75IFN662G7SJMQ" width="100" height="100" alt="Stick Lite logo">
+<a href="https://github.com/Stick-Package-Manager/lite/blob/2519b4dd0c07976f4ce02da90af1a0653b2f6d6b/lite.png" target="_blank" rel="noopener">
+  <img src="https://github.com/Stick-Package-Manager/lite/blob/2519b4dd0c07976f4ce02da90af1a0653b2f6d6b/lite.png" width="100" height="100" alt="Stick Lite logo">
 </a>
 
 # Stick Lite
