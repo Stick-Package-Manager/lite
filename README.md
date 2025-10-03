@@ -11,6 +11,10 @@ Stick Lite is a stripped-down version of Stick, written in V for the Arch User R
 
 ## **Commands**
 
+```bash
+stickl <command> [package]
+```
+
 | Command | Description | Example |
 |---------|-------------|---------|
 | `install` | Install package with dependencies | `stick install yay` |
