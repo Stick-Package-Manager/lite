@@ -27,3 +27,5 @@ While this repository already includes the README, documentation, and other proj
 | Package Tracking          | ✅    | ❌         |
 | Signature Verification    | ✅    | ❌         |
 | Auto-conflict Resolution  | ✅    | ❌         |
+
+© 2025 [ihatemustard](https://github.com/ihatemustard) & [Stick Package Manager contributors](https://github.com/Stick-Package-Manager/stick/people)
