@@ -1,7 +1,7 @@
 <div align="center">
   
-<a href="https://raw.githubusercontent.com/Stick-Package-Manager/stick-lite/refs/heads/assets/lite.png?token=GHSAT0AAAAAADLSOPPI4LE34ULHJL53AQQM2G7RXEQ" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/Stick-Package-Manager/stick-lite/refs/heads/assets/lite.png?token=GHSAT0AAAAAADLSOPPI4LE34ULHJL53AQQM2G7RXEQ" width="100" height="100" alt="Stick Lite logo">
+<a href="https://raw.githubusercontent.com/Stick-Package-Manager/lite/refs/heads/assets/lite.png" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/Stick-Package-Manager/lite/refs/heads/assets/lite.png" width="100" height="100" alt="Stick Lite logo">
   
 </a>
 
