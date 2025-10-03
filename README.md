@@ -14,5 +14,3 @@ Stick Lite is a stripped-down version of Stick, written in V for the Arch User R
 | Configuration Support          | ✅    | ❌         |
 | Isolated Installation        | ✅    | ❌         |
 | Repo Management                | ✅    | ❌         |
-| System Compatibility           | ✅    | ✅         |
-| Size                           | ❌    | ✅         |
