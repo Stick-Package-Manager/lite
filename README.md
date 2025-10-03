@@ -8,7 +8,7 @@ Stick Lite is a stripped-down version of Stick, written in V for the Arch User R
 </div>
 
 ## **Disclaimer**  
-Stick is still in active development and is **not yet ready for use**.  
+Stick Lite is still in active development and is **not yet ready for use**.  
 While this repository already includes the README, documentation, and other project files, the package manager itself is currently inaccessible and incomplete.  
 
 | Feature                  | Stick | Lite |
