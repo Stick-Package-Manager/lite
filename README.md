@@ -19,8 +19,8 @@ stick-lite <command> [package]
 
 | Command | Description | Example |
 |---------|-------------|---------|
-| `install` | Install package with dependencies | `stick install yay` |
-| `remove` | Remove installed package | `stick remove yay` |
+| `install` | Install package with dependencies | `stick-lite install yay` |
+| `remove` | Remove installed package | `stick-lite remove yay` |
 
 ## **Disclaimer**  
 Stick Lite is still in active development and is **not yet ready for use**.  
