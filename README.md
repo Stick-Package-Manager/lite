@@ -24,7 +24,45 @@ stick-lite <command> [package]
 
 ## **Disclaimer**  
 Stick Lite is still in active development and is **not yet ready for use**.  
-While this repository already includes the README, documentation, and other project files, the package manager itself is currently inaccessible and incomplete.  
+While this repository already includes the README, documentation, and other project files, the package manager itself is currently incomplete.  
+
+## Prerequisites
+
+- [V compiler](https://vlang.io/) (latest version recommended)
+- `pacman` package manager (Arch Linux or derivative)
+- `makepkg` (from `base-devel` package)
+- `tar` utility
+- `sh` shell
+- `sudo` access (for system dependencies)
+- Internet connection
+
+### Install Prerequisites
+
+```bash
+sudo pacman -S base-devel
+```
+
+## Installation
+
+### Quick Install (Recommended)
+
+```bash
+curl -sSL https://raw.githubusercontent.com/Stick-Package-Manager/installer/main/install.sh | bash
+```
+
+Or with `wget`:
+
+```bash
+wget -qO- https://raw.githubusercontent.com/Stick-Package-Manager/installer/main/install.sh | bash
+```
+
+### Run directly
+
+```bash
+v stick-lite.v
+
+./stick install vim
+```
 
 | Feature                  | Stick | Lite |
 |--------------------------|-------|------------|
